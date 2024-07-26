@@ -46,7 +46,7 @@ def preprocess_input(user_input):
 st.markdown("""
     <style>
     .main {
-        background-color: #87CEEB;
+        background-color: #fed9b7;
     }
     h1 {
         color: #4b4b4b;
@@ -79,7 +79,7 @@ st.title("Prediksi Feedback Pelanggan Online Food")
 st.markdown("""
     <style>
     .main {
-        background-color: #8F00F;
+        background-color: #f07167;
     }
     </style>
     <h3>Masukkan Data Pelanggan</h3>
