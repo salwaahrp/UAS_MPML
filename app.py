@@ -121,5 +121,10 @@ if st.button('Predict'):
 # Tambahkan elemen HTML untuk output
 st.markdown("""
     <h3>Output Prediksi</h3>
+     <style>
+    .main {
+        background-color: #f07167;
+    }
+    </style>
     <p>Hasil prediksi akan ditampilkan di sini.</p>
 """, unsafe_allow_html=True)
