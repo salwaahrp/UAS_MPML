@@ -49,15 +49,15 @@ st.markdown("""
         background-color: #fed9b7;
     }
     h1 {
-        color: #4b4b4b;
+        color: #fed9b7;
         text-align: center;
         margin-bottom: 25px;
     }
     h3 {
-        color: #4b4b4b;
+        color: #fed9b7;
     }
     .stButton>button {
-        background-color: #4b4b4b;
+        background-color: #fed9b7;
         color: black;
         padding: 10px 24px;
         border: none;
@@ -74,7 +74,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Antarmuka Streamlit
-st.title("Prediksi Feedback Pelanggan Online Food")
+st.title("Output Prediction for Online Food Data")
 
 st.markdown("""
     <style>
