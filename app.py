@@ -65,7 +65,7 @@ st.markdown("""
         cursor: pointer;
     }
     .stButton>button:hover {
-        background-color: #4b4b4b;
+        background-color: #fed9b7;
     }
     .stNumberInput, .stSelectbox {
         margin-bottom: 20px;
