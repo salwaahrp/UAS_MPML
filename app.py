@@ -79,7 +79,7 @@ st.title("Prediksi Feedback Pelanggan Online Food")
 st.markdown("""
     <style>
     .main {
-        background-color: #87CEEB;
+        background-color: #8F00F;
     }
     </style>
     <h3>Masukkan Data Pelanggan</h3>
